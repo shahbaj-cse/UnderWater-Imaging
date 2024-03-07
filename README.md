@@ -1,2 +1,4 @@
 # UnderWater-Imaging
-This is a repository for the underwater image processing
+This is the repository for underwater image processing.
+<br>
+Author- Muhammad Shahbaj
